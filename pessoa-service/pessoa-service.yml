@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to service"
+  message: "Welcome to Pessoa service"
   contactDetails:
     name: "Rod - Developer"
     email: "rod@gmail.com"

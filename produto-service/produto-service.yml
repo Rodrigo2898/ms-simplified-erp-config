@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to service"
+  message: "Welcome to Produto service"
   contactDetails:
     name: "Rod - Developer"
     email: "rod@gmail.com"

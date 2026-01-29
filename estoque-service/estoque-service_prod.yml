@@ -1,4 +1,3 @@
-
 spring:
   config:
     activate:
@@ -8,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to prod service "
+  message: "Welcome to prod Estoque service "
   contactDetails:
     name: "Rod - Developer"
     email: "rod@gmail.com"

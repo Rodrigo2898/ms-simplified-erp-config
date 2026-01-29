@@ -1,8 +1,9 @@
+
 build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to service"
+  message: "Welcome to Notification service"
   contactDetails:
     name: "Rod - Developer"
     email: "rod@gmail.com"
